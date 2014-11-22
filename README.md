@@ -1,6 +1,9 @@
 Docker LAMP Stack
 =================
 
+This is now deprecated in favor of https://github.com/joschi127/tugger
+======================================================================
+
 A simple LAMP stack designed for running a local development environment for Apache, MySQL, PHP in a Docker container.
 
 It is based on a Debian image and will use chef-solo / berkshelf provisioning to setup the web server environment.
